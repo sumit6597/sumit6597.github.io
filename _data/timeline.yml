@@ -8,7 +8,7 @@
 - position: Undergraduate Research Assistant
   company: Carnegie Mellon University, Advisor-Prof. Kathleen M. Carley
   url: https://www.cmu.edu/ideas-social-cybersecurity/events/conference.html
-  description: key:>- 1. Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.
+  description:  1. Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.
                       2. Crawled the web and collected data for misinformation from Twitter using Tweepy library
                       3. Developed and fine-tuned several deep learning language models for misinformation prediction task
                       4. Published the work as the first author in a special issue of springer named “Computational and Mathematical Organization Theory on disinformation”
