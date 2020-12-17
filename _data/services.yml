@@ -2,11 +2,11 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: Pursuing my bachelor's engineering course from Birla Institute of Technology, Mesra to be able to tackle problems that current society faces
+      text: Pursuing my bachelor's engineering from Birla Institute of Technology, Mesra. Solving research problem that is not bounded only to academics.
 
-    - heading: Data Science
+    - heading: NLP and Data Science
       sprite: ui
-      text: Practicing machine learning and data science. Getting my hands dirty on kaggle dataset and understanding methods proposed by researchers in their work.
+      text: I am generally interested in optimization and deep learning.I am particularly excited about the interplay between social media and machine learning. My work has been applied to learning dynamical systems in sustainability, health, and making robust learning models.
 - row: row2
   services:
     - heading: Programmer 
