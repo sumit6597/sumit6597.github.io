@@ -1,16 +1,19 @@
-- position: Undergraduate Student
-  company: Birla institute of Technology, Mesra
+- position: Undergraduate Research Assistant
+  company: Carnegie Mellon University, Mesra
   url: http://www.bitmesra.ac.in/
-  description: Candidate for Bachelor of Engineering in Computer Science &amp; Engineering with a concentration in Machine learning and a minor in Robotics. <strong>Graduating in Spring 2021.</strong>
+  description: Bachelor of Engineering in Computer Science &amp; Engineering. <strong>Graduating in Spring 2021.</strong>
   sprite: university
   date: 2017 - Present
 
-- position: Research Assistant
-  company: Birla institute of Technology, Mesra
-  url: http://www.bitmesra.ac.in/
-  description: Assisted a computer science Professor in the development of a research paper by implementing it and testing the code on the given data to provide analysis and results. Published two papers in IEEE BigMM and ICCCS2020. Developed remotely to meet weekly deadlines and project checkpoints during the pandemic.
-  sprite: research
-  date: January 2020 - May 2020
+- position: Undergraduate Research Assistant
+  company: Carnegie Mellon University Advisor , Prof. Kathleen M. Carley
+  url: https://www.cmu.edu/ideas-social-cybersecurity/events/conference.html
+  description: 1. Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.
+               2. Crawled the web and collected data for misinformation from Twitter using Tweepy library
+               3. Developed and fine-tuned several deep learning language models for misinformation prediction task
+               4. Published the work as the first author in a special issue of springer named “Computational and Mathematical Organization Theory on disinformation”
+  sprite: Remote research
+  date: June 2020 - Present
 
 #- position: Creative Technologist Co-op
 #  company: MullenLowe U.S.
@@ -26,19 +29,23 @@
 #  sprite: academic
 #  date: Jan - May 2016
 
-- position: Secretary
-  company: "Technical Club: Electronics and Communication"
-  url: http://www.bitptechnical.in/
-  description: Was one of the founding members and led projects on machine learning, IoT and robotics that were held by it. As a secretary organized a number of workshops for the benefits of the members as well as the interested. Helped them to understand the matters of IoT and machine learning betterly.
-  sprite: university
-  date: October 2019 - August 2020
+- position: Undergraduate Research Assistant
+  company: UC Berkeley
+  url: https://people.eecs.berkeley.edu/~keutzer/
+  description: 1. Worked on low resource language Sanskrit for word segmentation task.
+               2.  Collected and pre-processed sentence-pair data in SLP1/IAST format to create an embedding vector.
+  sprite: Remote research
+  date: May 2020 - Present
 
-- position: Project Assistant
-  company: Laboratoire d'Informatique de Grenoble
-  url: https://www.liglab.fr/en
-  description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
+- position: Data Science Intern
+  company: University of Montpellier, LIRMM(CNRS), France
+  url: http://www.lirmm.fr/recherche/equipes/mab
+  description: 1. Developed an inference program for biological data set allowing users to input their data into the program for visualization.
+               2. Scripted file format transformation using data mining methodology and dealt with new types of databases.
+               3. Implemented various interfacing programs with the Galaxy web platform.
+               4. Wrote inference analysis programs to summarise the programs finding by statistics and graphics to predict the likelihood of ancestors in a phylogenetic tree.
   sprite: university
-  date: June 2020 - July 2020
+  date: May 2019 - July 2019
 #- position: Developer
 #  company: Scout Studio
 #  url: http://www.northeastern.edu/scout/
