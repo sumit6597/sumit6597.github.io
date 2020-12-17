@@ -1,17 +1,19 @@
 # Site settings
-name: Ambesh Shekhar
-title: Ambesh Shekhar | Machine Learning Researcher
-description: I learn, I develop, I breathe in machine learning.
-url: http://ambityga.github.io/
+name: Sumit Kumar
+title: Sumit Kumar | Machine Learning Researcher
+description: For the past few years, I have been motivated by the following question, What are the powers of data-driven approaches in multidisciplinary domains? This question led to independent lines of work that include optimizing algorithms and applying deep learning methods to solve research problems for healthcare analytics and social network analysis. 
+url: http://sumit6597.github.io/
 baseurl: ""
-email: ambesh.sinha@gmail.com
-cover: http://ambityga.github.io/img/og.jpg
-logo: http://ambityga.github.io/img/logo-black.png
-resume: https://ambityga.github.io/resume
-google_verify: 22x1tQ2NU74XPFxGdy0ApDyU1yxKPU5iymeIeO-roUU
+email: sumit.atlancey@gmail.com
+cover: http://sumit6597.github.io/img/og.jpg
+logo: http://sumit6597.github.io/img/logo-black.png
+
+
+
+resume:  https://drive.google.com/file/d/16Kwo3heITXKWtLS3es4kF1Rsnar38_Cy/view?usp=sharing
 social:
   - title: email
-    url: mailto:ambesh.sinha@gmail.com
+    url: mailto:sumit.atlancey@gmail.com
 #  - title: twitter
 #    url: https://twitter.com/bchiang7
 #  - title: instagram
@@ -19,9 +21,9 @@ social:
 #  - title: codepen
 #    url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/AmbiTyga
+    url: https://github.com/sumit6597
   - title: linkedin
-    url: https://www.linkedin.com/in/ambesh-shekhar-1a115414b/
+    url: https://www.linkedin.com/in/sumit-kumar6597/
 
 # Build settings
 markdown: kramdown
@@ -44,5 +46,3 @@ keep_files:
 plugins:
   - jekyll-minifier
   - jekyll-sitemap
-
-theme: jekyll-theme-architect
