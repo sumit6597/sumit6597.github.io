@@ -1,14 +1,14 @@
 # Site settings
-name: Ambesh Shekhar
-title: Ambesh Shekhar | Machine Learning Researcher
-description: I learn, I develop, I breathe in machine learning.
-url: http://ambityga.github.io/
+name: Sumit Kumar
+title: Sumit Kumar | Machine Learning Researcher
+description: For the past few years, I have been motivated by the following question, What are the powers of data-driven approaches in multidisciplinary domains? This question led to independent lines of work that include optimizing algorithms and applying deep learning methods to solve research problems for healthcare analytics and social network analysis. 
+url: http://sumit6597.github.io/
 baseurl: ""
-email: ambesh.sinha@gmail.com
-cover: http://ambityga.github.io/img/og.jpg
-logo: http://ambityga.github.io/img/logo-black.png
+email: sumit.atlancey@gmail.com
+cover: http://sumit6597.github.io/img/og.jpg
+logo: http://sumit6597.github.io/img/logo-black.png
 
-resume: https://ambityga.github.io/resume
+resume: https://drive.google.com/file/d/16Kwo3heITXKWtLS3es4kF1Rsnar38_Cy/view?usp=sharing
 google_verify: 22x1tQ2NU74XPFxGdy0ApDyU1yxKPU5iymeIeO-roUU
 
 resume: http://ambityga.github.io/resume
