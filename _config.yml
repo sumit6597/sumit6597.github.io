@@ -1,0 +1,46 @@
+# Site settings
+name: Ambesh Shekhar
+title: Ambesh Shekhar | Machine Learning Researcher
+description: I learn, I develop, I breathe in machine learning.
+url: http://ambityga.github.io/
+baseurl: ""
+email: ambesh.sinha@gmail.com
+cover: http://ambityga.github.io/img/og.jpg
+logo: http://ambityga.github.io/img/logo-black.png
+resume: https://ambityga.github.io/resume
+google_verify: 22x1tQ2NU74XPFxGdy0ApDyU1yxKPU5iymeIeO-roUU
+social:
+  - title: email
+    url: mailto:ambesh.sinha@gmail.com
+#  - title: twitter
+#    url: https://twitter.com/bchiang7
+#  - title: instagram
+#    url: https://instagram.com/bchiang7
+#  - title: codepen
+#    url: http://codepen.io/bchiang7
+  - title: github
+    url: https://github.com/AmbiTyga
+  - title: linkedin
+    url: https://www.linkedin.com/in/ambesh-shekhar-1a115414b/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gemspec"
+  - "README.md"
+  - "node_modules"
+  - "build"
+  - "gulpfile.js"
+  - "package.json"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+plugins:
+  - jekyll-minifier
+  - jekyll-sitemap

@@ -1,0 +1,30 @@
+development:
+  - item: Python
+  - item: C/C++
+  - item: Java
+  - item: JavaScript
+  - item: Tensorflow
+  - item: Pytorch
+  - item: NLTK
+  
+
+# design:
+#   - item: sketch
+#   - item: adobe-photoshop
+#   - item: adobe-indesign
+#   - item: adobe-illustrator
+#   - item: invision
+
+tools:
+  - item: Git + Github
+  - item: Terminal
+  - item: PyCharm
+  - item: Arduino
+  - item: Latex
+
+knowledge:
+  - item: Programming
+  - item: Machine Learning
+  - item: Research
+  - item: NLP through Deep Learning
+  

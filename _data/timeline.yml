@@ -1,0 +1,54 @@
+- position: Undergraduate Student
+  company: Birla institute of Technology, Mesra
+  url: http://www.bitmesra.ac.in/
+  description: Candidate for Bachelor of Engineering in Computer Science &amp; Engineering with a concentration in Machine learning and a minor in Robotics. <strong>Graduating in Spring 2021.</strong>
+  sprite: university
+  date: 2017 - Present
+
+- position: Research Assistant
+  company: Birla institute of Technology, Mesra
+  url: http://www.bitmesra.ac.in/
+  description: Assisted a computer science Professor in the development of a research paper by implementing it and testing the code on the given data to provide analysis and results. Published two papers in IEEE BigMM and ICCCS2020. Developed remotely to meet weekly deadlines and project checkpoints during the pandemic.
+  sprite: research
+  date: January 2020 - May 2020
+
+#- position: Creative Technologist Co-op
+#  company: MullenLowe U.S.
+#  url: http://us.mullenlowe.com/
+#  description: Developed and maintained code for in-house and client websites. Tested front-end code in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness. Collaborated closely with other developers and digital producers to meet deadlines for clients including Lovesac, U.S. Cellular, JetBlue, and more.
+#  sprite: industry
+#  date: July - Dec 2015
+
+#- position: HCI Teaching Assistant
+#  company: NU College of Computer &amp; Information Science
+#  url: http://www.ccis.northeastern.edu/
+#  description: Assisted professor with grading homework and project assignments. Held office hours to aid students in their understanding of core HCI concepts and reported to the professor the extent of their understanding.
+#  sprite: academic
+#  date: Jan - May 2016
+
+- position: Secretary
+  company: "Technical Club: Electronics and Communication"
+  url: http://www.bitptechnical.in/
+  description: Was one of the founding members and led projects on machine learning, IoT and robotics that were held by it. As a secretary organized a number of workshops for the benefits of the members as well as the interested. Helped them to understand the matters of IoT and machine learning betterly.
+  sprite: university
+  date: October 2019 - August 2020
+
+- position: Project Assistant
+  company: Laboratoire d'Informatique de Grenoble
+  url: https://www.liglab.fr/en
+  description: Assist in development and programming algorithms. Extract and clean the data along with provide statistical solutions to deal with them. Design neural network architecture to solve problems related to Natural language processing.
+  sprite: university
+  date: June 2020 - July 2020
+#- position: Developer
+#  company: Scout Studio
+#  url: http://www.northeastern.edu/scout/
+#  description: Collaborated with a small team of student designers to spearhead a new design system for Scout’s first annual student-led design conference at Northeastern. Worked closely with designers and management team to develop, document, and manage the conference’s marketing website using Jekyll, Sass, and JavaScript.
+#  sprite: university
+#  date: Jan 2017 - Present
+
+# - position: UI Engineer Co-op
+#   company: Apple
+#   url: http://www.apple.com/
+#   description: Worked on iTunes using Ember.js
+#   sprite: industry
+#   date: July - Dec 2017
