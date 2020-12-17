@@ -8,13 +8,12 @@ email: sumit.atlancey@gmail.com
 cover: http://sumit6597.github.io/img/og.jpg
 logo: http://sumit6597.github.io/img/logo-black.png
 
-resume: https://drive.google.com/file/d/16Kwo3heITXKWtLS3es4kF1Rsnar38_Cy/view?usp=sharing
-google_verify: 22x1tQ2NU74XPFxGdy0ApDyU1yxKPU5iymeIeO-roUU
 
-resume: http://ambityga.github.io/resume
+
+resume:  https://drive.google.com/file/d/16Kwo3heITXKWtLS3es4kF1Rsnar38_Cy/view?usp=sharing
 social:
   - title: email
-    url: mailto:ambesh.sinha@gmail.com
+    url: mailto:sumit.atlancey@gmail.com
 #  - title: twitter
 #    url: https://twitter.com/bchiang7
 #  - title: instagram
@@ -22,9 +21,9 @@ social:
 #  - title: codepen
 #    url: http://codepen.io/bchiang7
   - title: github
-    url: https://github.com/AmbiTyga
+    url: https://github.com/sumit6597
   - title: linkedin
-    url: https://www.linkedin.com/in/ambesh-shekhar-1a115414b/
+    url: https://www.linkedin.com/in/sumit-kumar6597/
 
 # Build settings
 markdown: kramdown
