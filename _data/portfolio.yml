@@ -1,8 +1,8 @@
-- title: MemSem
+- title: Automated Medical Assistance: Attention Based Consultation System
 
-  code: https://github.com/AmbiTyga/MemSem
-  description: MemSem is a multi-modal framework for sentimental analysis of memes. With the help of multi modal architecture it extract features from the input to provide a meaningful analysis for a meme, whether its offensive, humorous or non-sense. The project is published in IEEE BigMM 2020 Publications and is still in progress.
-  img: memsem
+  code: 
+  description: 
+  img: 
   used:
     - thing: Tensorflow
     - thing: Hugging Face transformer
@@ -13,9 +13,9 @@
 
 - title: QuesBELM
 
-  code: https://github.com/AmbiTyga/QuesBELM
-  description: QuesBELM is a natural question answering system, based on natural language processing and ensemble methods. It works on an ensemble model of BERT-base, Albert-xxl and BERT-large. Trained on SQuad2.0 dataset, preprocessed and sampled to provide better results. It produces outstanding results and is helpful for researches related to natural question answering.
-  img: belm
+  code: 
+  description: 
+  img: 
   used:
     - thing: Pytorch
     - thing: Hugging Face transformer
@@ -35,10 +35,10 @@
 #     - thing: Express
 #     - thing: Heroku
 
-- title: ASL-Classifier
-  code: https://github.com/AmbiTyga/ASL-Classifier
-  description: ASL-Classifier is a python wrapper object. It's a real-time based classifier, helps in detecting and classifying American Sign language. With the help of Haarscascade and opencv it detects palm in the view and uses pretrained keras model in classification. It uses opencv library to create window applications to manage settings and classify output. 
-  img: deafdance
+- title: 
+  code: 
+  description: 
+  img: 
   used:
   - thing: Keras
   - thing: OpenCV
@@ -66,11 +66,11 @@
 #   - thing: JavaScript
 #   - thing: jQuery
 
-- title: hiLyted
+- title: hi
 
-  code: https://github.com/AmbiTyga/hiLyted
-  description: hiLyted is a project which clips highlights of video. It is based on the method of short time energy in audios extracted from a video. It captures the time period containing high pitch sound considering it as audience applause during the tournament. It downloads the video and audio from youtube using youtube-dl and extracts audio feature using Librosa, with the help of MoviePy it clips the time period of the highlights and saves it in a local directory.
-  img: hiLyted
+  code: 
+  description: 
+  img: 
   used:
     - thing: Youtube-dl
     - thing: Librosa
