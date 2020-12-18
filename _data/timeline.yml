@@ -25,8 +25,8 @@
 - position: Data Science Intern
   company: University of Montpellier, LIRMM(CNRS), France
   url: http://www.lirmm.fr/recherche/equipes/mab
-  description: 1. Developed an inference program for biological data set allowing users to input their data into the program for visualization.
-               2. Scripted file format transformation using data mining methodology and dealt with new types of databases.
+  description: 1. Developed an inference program for biological data set allowing users to input their data into the program for visualization. /n
+               2. Scripted file format transformation using data mining methodology and dealt with new types of databases. /n
                3. Implemented various interfacing programs with the Galaxy web platform.
                4. Wrote inference analysis programs to summarise the programs finding by statistics and graphics to predict the likelihood of ancestors in a phylogenetic tree.
   sprite: university
