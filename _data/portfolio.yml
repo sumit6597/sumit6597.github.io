@@ -1,7 +1,7 @@
 - title: MemSem
 
-  code: https://github.com/AmbiTyga/MemSem
-  description: MemSem is a multi-modal framework for sentimental analysis of memes. With the help of multi modal architecture it extract features from the input to provide a meaningful analysis for a meme, whether its offensive, humorous or non-sense. The project is published in IEEE BigMM 2020 Publications and is still in progress.
+  code: https://github.com/sumit6597/Automated-Medical-Assistance
+  description: Hello
   img: memsem
   used:
     - thing: Tensorflow
