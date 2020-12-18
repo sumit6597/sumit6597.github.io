@@ -2,7 +2,7 @@
 
   code: https://github.com/sumit6597/Automated-Medical-Assistance
   description: Hello
-  img: memsem
+  img: belm
   used:
     - thing: Tensorflow
     - thing: Hugging Face transformer
