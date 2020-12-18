@@ -13,6 +13,9 @@
       sprite: xd
       text: I practice my coding on various platforms and compete with my friends. I use this quirk to help others by guiding them or helping them in their work.
 
-    - heading: Secretary
+    - heading: Awards & Achievement
       sprite: wit
-      text: I am the secretary, technical support and one of the people who established the <strong>Technical Club at Birla Institute of Technology</strong> aiming to provide a platform for students intrigued by the concepts of machine learning  and IoT and to make them aware of the current working ambience in this field by encouraging them to take part in different competitions and research.
+      text: Selected for the title ”InSc Young Researcher Award” \n
+            Received NeurIPS 2020 registration grant support for presentation in MLPH workshop \n
+            Entitled scholarship grant for visiting scholar at Jean Monnet University, Lyon, France
+           
