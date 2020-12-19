@@ -18,9 +18,10 @@ development:
 tools:
   - item: Git + Github
   - item: Terminal
-  - item: PyCharm
-  - item: Arduino
+  - item: Vscode
+  - item: Docker
   - item: Latex
+  - item: GCP
 
 knowledge:
   - item: Programming
