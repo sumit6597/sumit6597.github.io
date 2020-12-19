@@ -8,13 +8,6 @@ development:
   - item: NLTK
   
 
-# design:
-#   - item: sketch
-#   - item: adobe-photoshop
-#   - item: adobe-indesign
-#   - item: adobe-illustrator
-#   - item: invision
-
 tools:
   - item: Git + Github
   - item: Terminal
@@ -25,7 +18,7 @@ tools:
 
 knowledge:
   - item: Programming
-  - item: Machine Learning
+  - item: Data Science
   - item: Research
-  - item: NLP through Deep Learning
+  - item: Natural Language Processing
   
