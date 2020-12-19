@@ -1,24 +1,26 @@
 - title: Automated Medical Assistance
 
   code: https://github.com/sumit6597/Automated-Medical-Assistance
-  description: Hello
+  description: We aimed to mitigate the disparity of access to Telehealth among different racial groups. To design and experiment on different transformers based model like BERT, BART, and GPT2, we could generate a doctor response through question answering. The paper “Automated Medical Assistance: Attention Based Consultation System” was accepted at NeurIPS 2020. 
   img: belm
   used:
     - thing: Tensorflow
     - thing: Hugging Face transformer
     - thing: Python Reddit API Wrapper
-    - thing: google-images-downloader
     - thing: NLTK
-    - thing: Pytessaract
+   
 
-- title: QuesBELM
+- title: Misinformation in COVID-19 tweets
 
-  code: https://github.com/AmbiTyga/QuesBELM
-  description: QuesBELM is a natural question answering system, based on natural language processing and ensemble methods. It works on an ensemble model of BERT-base, Albert-xxl and BERT-large. Trained on SQuad2.0 dataset, preprocessed and sampled to provide better results. It produces outstanding results and is helpful for researches related to natural question answering.
+  code: https://github.com/sumit6597
+  description: We aimed at developing a classifier for fine-grained inference of COVID-19 tweets. Through building a benchmark system for misinformation mitigation and experimenting with classical machine learning approaches to the latest state-of-the-art deep learning models gave me a deeper insight into natural language processing. I presented the work “A Fine-Grained Analysis of Misinformation in COVID-19 Tweets” at the IdeaS conference which got accepted in a special issue of springer named “Computational and Mathematics Organization Theory on Disinformation”. 
   img: memsem
   used:
-    - thing: Pytorch
+    - thing: Tensorflow
     - thing: Hugging Face transformer
+    - thing: Python Tweepy API Wrapper
+    - thing: NLTK
+    
 
 # - title: Weather Widget
 #   demo: http://quiet-dusk-89245.herokuapp.com/
