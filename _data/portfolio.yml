@@ -2,7 +2,7 @@
 
   code: https://github.com/sumit6597/Automated-Medical-Assistance
   description: Hello
-  img: memsem
+  img: belm
   used:
     - thing: Tensorflow
     - thing: Hugging Face transformer
@@ -15,7 +15,7 @@
 
   code: https://github.com/AmbiTyga/QuesBELM
   description: QuesBELM is a natural question answering system, based on natural language processing and ensemble methods. It works on an ensemble model of BERT-base, Albert-xxl and BERT-large. Trained on SQuad2.0 dataset, preprocessed and sampled to provide better results. It produces outstanding results and is helpful for researches related to natural question answering.
-  img: belm
+  img: memsem
   used:
     - thing: Pytorch
     - thing: Hugging Face transformer
