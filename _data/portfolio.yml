@@ -24,7 +24,7 @@
     
 - title: Biomedical Network Link Prediction using Neural Network Graph Embedding 
 
-  ACM DL: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/CODSCOMAD2021/69/072bb849-13c0-11eb-8d84-166a08e17233/OUT/codscomad2021-69.html
+  code: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/CODSCOMAD2021/69/072bb849-13c0-11eb-8d84-166a08e17233/OUT/codscomad2021-69.html
   description: In this paper, we aim at Graph embedding learning for automatic grasping of low dimensional node representation on biomedical networks. The purpose is to use different neural Graph embedding methods for conducting analysis on 3 major biomedical link prediction tasks drug disease association (DDA) prediction, drug drug interaction (DDI) classification, and protein protein interaction (PPI) classification. We observe that graph embedding method achieve a
                promising result without the use of any biological features.
   img: deafdance
