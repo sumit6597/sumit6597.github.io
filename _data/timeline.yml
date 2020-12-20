@@ -23,7 +23,7 @@
 
 
 - position: Data Science Intern
-  company: University of Montpellier, LIRMM(CNRS), France
+  company: University of Montpellier, LIRMM(CNRS), France, Advisor-> Prof. Vincent Berry
   url: http://www.lirmm.fr/recherche/equipes/mab
   description:        1. Developed an inference program for biological data set allowing users to input their data into the program for visualization.
                2. Scripted file format transformation using data mining methodology and dealt with new types of databases.
@@ -33,7 +33,7 @@
   date: May 2019 - July 2020
 
 - position: Undergraduate Research Assistant
-  company: UC Berkeley, Prof. Kurt Keutzer
+  company: UC Berkeley, Advisor-> Prof. Kurt Keutzer
   url: https://people.eecs.berkeley.edu/~keutzer/
   description:     1. Worked on low resource language Sanskrit for word segmentation task.
                2.  Collected and pre-processed sentence-pair data in SLP1/IAST format to create an embedding vector.
@@ -41,7 +41,7 @@
   date: May 2020 - Present
 
 - position: Undergraduate Research Assistant
-  company: Carnegie Mellon University Advisor , Prof. Kathleen M. Carley
+  company: Carnegie Mellon University, Advisor-> Prof. Kathleen M. Carley
   url: https://www.cmu.edu/ideas-social-cybersecurity/events/conference.html
   description: 1. Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.
                2. Crawled the web and collected data for misinformation from Twitter using Tweepy library
