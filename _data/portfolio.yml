@@ -1,4 +1,4 @@
-- title: Automated-Medical-Assistance
+- title: Automated Medical Assistance
 
   code: https://github.com/sumit6597/DocAssistance
   description: We aimed to mitigate the disparity of access to Telehealth among different racial groups. To design and experiment on different transformers based model like BERT, BART, and GPT2, we could generate a doctor response through question answering. The paper “Automated Medical Assistance Attention Based Consultation System” was accepted at NeurIPS 2020. 
