@@ -1,6 +1,5 @@
 - title: Automated Medical Assistance
 
-  code: https://github.com/sumit6597/DocAssistance
   website: https://sites.google.com/nyu.edu/mlph2020/accepted-papers?authuser=0
   paper: https://drive.google.com/file/d/1yw4ygAY3xDz3PGIVp0LYsGEw9lPf3LP8/view?usp=sharing
   description: We aimed to mitigate the disparity of access to Telehealth among different racial groups. To design and experiment on different transformers based                model like BERT, BART, and GPT2, we could generate a doctor response through question answering. The paper “Automated Medical Assistance Attention                Based Consultation System” was accepted at NeurIPS 2020. 
@@ -14,7 +13,6 @@
 
 - title: Misinformation in COVID-19 tweets
 
-  code: https://colab.research.google.com/drive/1wKlBP3t2t8EQQDbku6ZWlQe85_QrTeWf?usp=sharing
   website: https://www.cmu.edu/ideas-social-cybersecurity/events/conference.html
   paper: https://www.cmu.edu/ideas-social-cybersecurity/events/2020papers/raj-and-sumet_paper.pdf
   description: We aimed at developing a classifier for fine-grained inference of COVID-19 tweets. Through building a benchmark system for misinformation      mitigation and experimenting with classical machine learning approaches to the latest state-of-the-art deep learning models gave me a deeper insight into natural language processing. I presented the work “A Fine-Grained Analysis of Misinformation in COVID-19 Tweets” at the IdeaS conference which got accepted in a special issue of springer named “Computational and Mathematics Organization Theory on Disinformation”. 
@@ -28,7 +26,6 @@
     
 - title: Biomedical Network Link Prediction using Neural Network Graph Embedding 
 
-  code: https://github.com/sumit6597
   website: https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/CODSCOMAD2021/69/072bb849-13c0-11eb-8d84-166a08e17233/OUT/codscomad2021-69.html
   paper: https://drive.google.com/file/d/1aMdeyi6By9cgIcWsZZ_WSNgYE_bI3zxf/view?usp=sharing
   description: In this paper, we aim at Graph embedding learning for automatic grasping of low dimensional node representation on biomedical networks. The purpose is to use different neural Graph embedding methods for conducting analysis on 3 major biomedical link prediction tasks drug disease association (DDA) prediction, drug drug interaction (DDI) classification, and protein protein interaction (PPI) classification. We observe that graph embedding method achieve a
@@ -42,7 +39,6 @@
     
 - title: CLPLM 
 
-  code: https://github.com/sumit6597
   website: https://www.iitp.ac.in/~ai-nlp-ml/icon2020/accepted_papers.html
   paper: https://drive.google.com/file/d/1xrnvjmZ8Ce36fnX25jvEYfqtSO1ei7sf/view?usp=sharing
   description: In this paper, we have designed a character level pretrained language model for extracting support phrases from tweets based on the sentiment label. We also propose a character level ensemble model designed by properly blending Pre-trained Contextual Embeddings (PCE) models RoBERTa, BERT, and ALBERT along with Neural network models RNN, CNN and WaveNet at different stages of the model. The paper got accepted at 17th International Conference on Natural Language Processing (ICON 2020).
