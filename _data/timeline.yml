@@ -20,10 +20,10 @@
 - position: Data Science Intern
   company: University of Montpellier, LIRMM(CNRS), France, Advisor-> Prof. Vincent Berry
   url: http://www.lirmm.fr/recherche/equipes/mab
-  description:        1. Developed an inference program for biological data set allowing users to input their data into the program for visualization
-                      2. Scripted file format transformation using data mining methodology and dealt with new types of databases
-                3. Implemented various interfacing programs with the Galaxy web platform
-                4. Wrote inference analysis programs to summarise the programs finding by statistics and graphics to predict the likelihood of ancestors in a phylogenetic tree.
+  description:         Developed an inference program for biological data set allowing users to input their data into the program for visualization.
+                      Scripted file format transformation using data mining methodology and dealt with new types of databases.
+                Implemented various interfacing programs with the Galaxy web platform.
+                Wrote inference analysis programs to summarise the programs finding by statistics and graphics to predict the likelihood of ancestors in a phylogenetic tree.
   sprite: university
   date: May 2019 - July 2020
   
@@ -37,18 +37,18 @@
 - position: Undergraduate Research Assistant
   company: UC Berkeley, Advisor-> Prof. Kurt Keutzer
   url: https://people.eecs.berkeley.edu/~keutzer/
-  description:     1. Worked on low resource language Sanskrit for word segmentation task|
-               2.  Collected and pre-processed sentence-pair data in SLP1/IAST format to create an embedding vector|
+  description:     Worked on low resource language Sanskrit for word segmentation task.
+               Collected and pre-processed sentence-pair data in SLP1/IAST format to create an embedding vector.
   sprite: Remote research
   date: May 2020 - Present
 
 - position: Undergraduate Research Assistant
   company: Carnegie Mellon University, Advisor-> Prof. Kathleen M. Carley
   url: https://www.cmu.edu/ideas-social-cybersecurity/events/conference.html
-  description: 1. Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.|
-               2. Crawled the web and collected data for misinformation from Twitter using Tweepy library|
-               3. Developed and fine-tuned several deep learning language models for misinformation prediction task|
-               4. Published the work as the first author in a special issue of springer named “Computational and Mathematical Organization Theory on disinformation”
+  description:  Worked on a fine-grained classification and inference task for Tweets misinformation erupted during the Covid-19 pandemic.
+               Crawled the web and collected data for misinformation from Twitter using Tweepy library.
+                Developed and fine-tuned several deep learning language models for misinformation prediction task.
+                Published the work as the first author in a special issue of springer named “Computational and Mathematical Organization Theory on disinformation”.
   sprite: Remote research
   date: June 2020 - Present
 #- position: Developer
