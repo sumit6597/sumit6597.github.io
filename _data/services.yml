@@ -11,10 +11,10 @@
   services:
     - heading: Extracurricular 
       sprite: xd
-      text: Workshop paper presentation in NeurIPS 2020, CODS COMAD 21, CMU IdeaS conferences e.t.c.
+      text: Workshop paper presentation in NeurIPS 2020, CODS COMAD 21, IdeaS conferences and ICON 2020.
 
     - heading: Awards & Achievement
       sprite: wit
-      text: 1) Selected for the title ”InSc Young Researcher Award”                      2) Received NeurIPS 2020 registration grant support for presentation in MLPH workshop 
+      text: 1) Selected for the title ”InSc Young Researcher Award” 2) Received NeurIPS 2020 registration grant support for presentation in MLPH workshop 
             3) Entitled scholarship grant for visiting scholar at Jean Monnet University, Lyon, France
            
