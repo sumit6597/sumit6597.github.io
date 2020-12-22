@@ -27,7 +27,7 @@
   sprite: university
   date: May 2019 - July 2020
   
-  - position: Undergraduate Research Assistant
+- position: Undergraduate Research Assistant
   company: Birla Institute of Technology, Advisor-> Assistant Prof. Subhash Chandra Pandey
   url: https://www.bitmesra.ac.in/Display_My_Profile_00983KKj893L?id=sZFVp%252b%252fGET3krUsxdZSpYmCTRjfzpoSrZASF1U2RwCY%253d
   description: Bachelor of Engineering in Computer Science &amp; Engineering. <strong>Graduating in Spring 2021.</strong> Worked on Hate Speech detection of tweets related to Black Lives Matter. Data collected through crowdsourcing, pre-processed, and was subjected to various transformer-based contextual models for experiments. The Paper was virtually presented before the group of the panel. 
