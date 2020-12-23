@@ -2,7 +2,7 @@
 
   website: https://sites.google.com/nyu.edu/mlph2020/accepted-papers?authuser=0
   paper: https://drive.google.com/file/d/1yw4ygAY3xDz3PGIVp0LYsGEw9lPf3LP8/view?usp=sharing
-  description: We aimed to mitigate the disparity of access to Telehealth among different racial groups. To design and experiment on different transformers based                model like BERT, BART, and GPT2, we could generate a doctor response through question answering. The paper “Automated Medical Assistance Attention                Based Consultation System” was accepted at NeurIPS 2020. 
+  description: We aimed to mitigate the disparity of access to Telehealth among different racial groups. To design and experiment on different transformers based                model like BERT, BART, and GPT2, we could generate a doctor response through question answering. The paper “Automated Medical Assistance Attention                Based Consultation System” was accepted at NeurIPS MLPH workshop 2020. 
   img: belm
   used:
     - thing: Tensorflow
