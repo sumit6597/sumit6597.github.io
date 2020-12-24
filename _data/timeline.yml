@@ -36,7 +36,7 @@
 
 - position: Undergraduate Research Assistant
   company: UC Berkeley, Advisor-> Prof. Kurt Keutzer
-  url: https://people.eecs.berkeley.edu/~keutzer/
+  url: https://scholar.google.com/citations?user=ID9QePIAAAAJ&hl=en
   description:     Worked on low resource language Sanskrit for word segmentation task.
                Collected and pre-processed sentence-pair data in SLP1/IAST format to create an embedding vector.
   sprite: Remote research
