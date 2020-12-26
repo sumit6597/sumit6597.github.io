@@ -2,7 +2,6 @@ development:
   - item: Python
   - item: C/C++
   - item: Java
-  - item: JavaScript
   - item: Tensorflow
   - item: Pytorch
   - item: NLTK
@@ -14,7 +13,7 @@ tools:
   - item: Vscode
   - item: Docker
   - item: Latex
-  - item: GCP
+  - item: GCP/ Google Colab
 
 knowledge:
   - item: Programming
