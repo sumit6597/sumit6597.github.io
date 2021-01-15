@@ -1,1 +1,7 @@
-
+development:
+  - item: Python
+  - item: C/C++
+  - item: Java
+  - item: Tensorflow
+  - item: Pytorch
+  - item: NLTK
