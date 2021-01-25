@@ -9,16 +9,16 @@
 
     - heading: NLP and Data Science
       sprite: ui
-      text: I am generally interested in optimization and deep learning. I am particularly excited about text summarization, text generation in NLP. My work has been applied to learning dynamical systems in sustainability, health, and making robust learning models.
+      text: I am generally interested in optimization and deep learning. I am particularly excited about text summarization, text generation in NLP. My work has been applied to learning dynamical systems in sustainability, online analysis, low resource language and making robust learning models.
 - row: row2
   services:
     - heading: Extracurricular 
       sprite: xd
-      text: Workshop paper presentation in NeurIPS 2020, CODS COMAD 21, IdeaS conferences and ICON 2020. <p>Black Lives Matter Twitter dataset:<a href="https://doi.org/10.5281/zenodo.4000539"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000539.svg" alt="DOI"></a></p>
+      text:  Paper presentation at NeurIPS MLPH workshop 2020, CODS COMAD 21, IdeaS conferences, and ICON 2020. <p>Black Lives Matter Twitter dataset:<a href="https://doi.org/10.5281/zenodo.4000539"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000539.svg" alt="DOI"></a></p>
 
 
     - heading: Awards & Achievement
       sprite: wit
-      text: <p class="test">Selected for the ”InSc Young Researcher Award” <br>Received NeurIPS 2020 grant support for MLPH workshop 
+      text: <p>Selected for the ”InSc Young Researcher Award” <br>Received NeurIPS 2020 grant support for MLPH workshop 
             <br>Grant for visiting scholar at Jean Monnet University, Lyon</p>
            
