@@ -1,7 +1,7 @@
 # Site settings
 name: Sumit Kumar
-title: Sumit Kumar | Machine Learning Researcher
-description: For the past few years, I have been motivated by the following question, What are the powers of data-driven approaches in multidisciplinary domains? This question led to independent lines of work that include optimizing algorithms and applying deep learning methods to solve research problems for healthcare analytics and social network analysis. 
+title: Sumit Kumar | Homepage
+description: "Sumit Kumar's homepage"
 url: http://sumit6597.github.io/
 baseurl: ""
 email: sumit.atlancey@gmail.com
