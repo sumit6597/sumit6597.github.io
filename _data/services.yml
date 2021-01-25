@@ -14,11 +14,11 @@
   services:
     - heading: Extracurricular 
       sprite: xd
-      text:  Paper presentation at 34th NeurIPS 2020, ACM- 8th CODS & 26th COMAD 21, CMU IdeaS conferences, and 17th ICON 2020. <p>Black Lives Matter Twitter dataset:<a href="https://doi.org/10.5281/zenodo.4000539"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000539.svg" alt="DOI"></a></p>
+      text:  Paper presentation at 34th NeurIPS 2020, ACM- 8th CODS & 26th COMAD 21, CMU IdeaS conferences, and 17th ICON 2020. Black Lives Matter Twitter dataset:<a href="https://doi.org/10.5281/zenodo.4000539"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000539.svg" alt="DOI"></a>
 
 
     - heading: Awards & Achievement
       sprite: wit
-      text: <p>Selected for the ”InSc Young Researcher Award” <br>Received NeurIPS 2020 grant support for MLPH workshop 
-            <br>Grant for visiting scholar at Jean Monnet University, Lyon</p>
+      text: Selected for the ”InSc Young Researcher Award”<p>Received NeurIPS 2020 grant support for MLPH workshop</p>
+            <p>Grant for visiting scholar at Jean Monnet University, Lyon</p>
            
