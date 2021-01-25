@@ -11,7 +11,8 @@
   services:
     - heading: Extracurricular 
       sprite: xd
-      text: Workshop paper presentation in NeurIPS 2020, CODS COMAD 21, IdeaS conferences and ICON 2020.
+      text: Workshop paper presentation in NeurIPS 2020, CODS COMAD 21, IdeaS conferences and ICON 2020. <p>BLM hatespeech dataset:<a href="https://doi.org/10.5281/zenodo.4000398"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.4000398.svg" alt="DOI"></a></p>
+
 
     - heading: Awards & Achievement
       sprite: wit
