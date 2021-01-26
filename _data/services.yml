@@ -19,5 +19,5 @@
 
     - heading: Awards & Achievement
       sprite: wit
-      text: <p><ul><li>Selected for the ”InSc Young Researcher Award”<li>Received NeurIPS 2020 grant support for MLPH workshop <li> Grant for visiting scholar at Jean Monnet University, Lyon</ul></p>
+      text: <ul type="circle"><li>Selected for the ”InSc Young Researcher Award”<li>Received NeurIPS 2020 grant support for MLPH workshop <li> Grant for visiting scholar at Jean Monnet University, Lyon</ul>
            
