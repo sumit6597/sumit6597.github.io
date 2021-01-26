@@ -3,9 +3,9 @@
 
 - row: row1
   services:
-    - heading: Research papers
+    - heading: Academics
       sprite: webdev
-      text: <a href="https://sites.google.com/nyu.edu/mlph2020/accepted-papers">
+      text: 
 
     - heading: NLP and Data Science
       sprite: ui
