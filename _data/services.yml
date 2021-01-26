@@ -5,11 +5,11 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: 
+      text: <ul> <li>Soft Computing </ul>
 
     - heading: NLP and Data Science
       sprite: ui
-      text: I am generally interested in optimization and deep learning. I am particularly excited about text summarization, text generation in NLP. My work has been applied to learning dynamical systems in sustainability, online analysis, low resource language and making robust learning models.
+      text: I am generally interested in optimization and deep learning. I am particularly excited about text summarization, text generation in NLP. My work has been applied to learning dynamical systems in sustainability, social media analysis, low resource language and making robust learning models.
 - row: row2
   services:
     - heading: Extracurricular 
