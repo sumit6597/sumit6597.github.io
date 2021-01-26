@@ -5,7 +5,7 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: <ul><h4>Last 2 semesters</h4> <li>Soft Computing <li>Data Mining and Warehousing<li>Distributed and Paralllel Systems<li>Cryptography and Network Security<li>Business Ethics</ul>
+      text: <ul><h4>Last semester</h4> <li>Soft Computing <li>Data Mining and Warehousing<li>Distributed and Paralllel Systems<li>Cryptography and Network Security<li>Business Ethics</ul>
 
     - heading: NLP and Data Science
       sprite: ui
