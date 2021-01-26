@@ -5,7 +5,7 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: <ul> <li>Soft Computing </ul>
+      text: <ul> <li>Soft Computing <li>Data mining and warehousing</ul>
 
     - heading: NLP and Data Science
       sprite: ui
