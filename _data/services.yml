@@ -3,9 +3,9 @@
 
 - row: row1
   services:
-    - heading: Academics
+    - heading: Research papers
       sprite: webdev
-      text: Senior year B.E student from Birla Institute of Technology, Mesra.
+      text: <a href="https://sites.google.com/nyu.edu/mlph2020/accepted-papers">
 
     - heading: NLP and Data Science
       sprite: ui
