@@ -147,18 +147,18 @@ ul {
 
 #intro-section .bg {
   z-index: 0;
-  background-image: url('../img/bg-intro/intro-xl.jpg');
+  background-image: url('../img/bg-intro/first.jpg');
   @include MQ(L) {
-    background-image: url('../img/bg-intro/intro-lg.jpg');
+    background-image: url('../img/bg-intro/first.jpg');
   }
   @include MQ(MM) {
-    background-image: url('../img/bg-intro/intro-md.jpg');
+    background-image: url('../img/bg-intro/first.jpg');
   }
   @include MQ(S660) {
-    background-image: url('../img/bg-intro/intro-sm.jpg');
+    background-image: url('../img/bg-intro/first.jpg');
   }
   @include MQ(SM) {
-    background-image: url('../img/bg-intro/intro-xs.jpg');
+    background-image: url('../img/bg-intro/first.jpg');
   }
 }
 
