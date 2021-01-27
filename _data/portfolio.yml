@@ -36,6 +36,8 @@
     - thing: Numpy
     - thing: Scikit
     - thing: Graph Embedding  
+
+    - thing: Variational Autoencoder
     
 - title: CLPLM 
 
