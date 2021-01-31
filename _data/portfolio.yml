@@ -29,7 +29,7 @@
   website: https://dl.acm.org/doi/10.1145/3430984.3431053
   paper: https://drive.google.com/file/d/1aMdeyi6By9cgIcWsZZ_WSNgYE_bI3zxf/view?usp=sharing
   description: In this paper, we aim at Graph embedding learning for automatic grasping of low dimensional node representation on biomedical networks. The purpose is to use different neural Graph embedding methods for conducting analysis on 3 major biomedical link prediction tasks drug disease association (DDA) prediction, drug drug interaction (DDI) classification, and protein protein interaction (PPI) classification. We observe that graph embedding method achieve a
-               promising result without the use of any biological features. The paper got accepted at CODS-COMAD 21 in young researcher symposium track.
+               promising result without the use of any biological features. The paper got accepted at CODS-COMAD 21 in Young Researchers Symposium track.
   img: deafdance
   used:
     - thing: OpenNE
