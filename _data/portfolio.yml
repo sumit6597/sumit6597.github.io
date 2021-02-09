@@ -43,7 +43,7 @@
 
   website: https://www.iitp.ac.in/~ai-nlp-ml/icon2020/accepted_papers.html
   paper: https://drive.google.com/file/d/1xrnvjmZ8Ce36fnX25jvEYfqtSO1ei7sf/view?usp=sharing
-  description: In this paper, we have designed a character level pretrained language model for extracting support phrases from tweets based on the sentiment label. We also propose a character level ensemble model designed by properly blending Pre-trained Contextual Embeddings (PCE) models RoBERTa, BERT, and ALBERT along with Neural network models RNN, CNN and WaveNet at different stages of the model. The paper got accepted at 17th International Conference on Natural Language Processing (ICON 2020).
+  description: In this paper, we have designed a character level pretrained language model for extracting support phrases from tweets based on the sentiment label. We also propose a character level ensemble model designed by properly blending Pre-trained Contextual Embeddings (PCE) models RoBERTa, BERT, and ALBERT along with Neural network models RNN, CNN and WaveNet at different stages of the model. The paper got accepted at 17th International Conference on Natural Language Processing [ICON 2020] .
   img: hiLyted
   used:
     - thing: TensorFlow
