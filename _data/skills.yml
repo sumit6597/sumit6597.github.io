@@ -1,6 +1,6 @@
 development:
   - item: Python
-  - item: C/C++
+  #- item: C/C++
   - item: Java
   - item: Tensorflow
   - item: Pytorch
@@ -17,9 +17,9 @@ tools:
 
 knowledge:
   - item: NLP 
-  - item: Data Science
+ # - item: Data Science
   - item: Deep Learning
-  - item: Research
+  - item: SOTA Models
   
 
  
