@@ -5,7 +5,7 @@ development:
   - item: Tensorflow
   - item: Pytorch
   - item: NLTK
-  - item: C
+  
   
 
 tools:
