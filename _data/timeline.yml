@@ -39,9 +39,16 @@
   date: June 2020 - Dec 2020
   
 - position: Project Research Intern
-  company: Samsung R&D, Advisor-> Dr. Koel Mukherjee <br> Mentors-> Sripada K & P. Saikrishna
+  company: Samsung R&D
   url: 
   description: Working on applying Machine Learning for 5G Channel Estimation. Researching towards adapting advanced ML techniques to improve the current state of the art in MIMO channel estimation.        
   sprite: university
-  date: Jan 2021 - Present
+  date: Jan 2021 - May 2021
+  
+- position: AI Intern
+company: Marsview.AI
+url: https://www.marsview.ai/
+description: Worked on Natural language generation for generating longer abstractive summary. The model was able to take json input and give a summarised json output.
+sprite:
+date: June 2021 - August 2021
 
