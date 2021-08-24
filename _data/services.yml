@@ -5,11 +5,11 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: <ul><h5>7th semester</h5> <li>Soft Computing <li>Data Mining and Warehousing<li>Distributed and Parallel Systems<li>Cryptography and Network Security<li>Business Ethics</ul>
+      text: <ul><h5>1st semester</h5> <li>CSE 565 <li> CMPEN 431 <li>  CSE 597.006 </ul>
 
     - heading: NLP and Data Science
       sprite: ui
-      text: I am generally interested in optimization and deep learning. I am particularly excited about text summarization, text generation in NLP. My work has been applied to learning dynamical systems in sustainability, social media analysis, low resource language and making robust learning models.
+      text: I am generally interested in deep learning. I am particularly excited about text summarization and text generation in NLP. My work has been applied to learning dynamical systems in sustainability, social media analysis, low resource language and making robust learning models.
 - row: row2
   services:
     - heading: Extracurricular 
