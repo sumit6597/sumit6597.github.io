@@ -5,7 +5,7 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: <ul><h5>1st semester</h5> <li>CSE 565 <li> CMPEN 431 <li>  CSE 597.006 </ul>
+      text: <ul><h5>2nd semester</h5> <li>Operating System <li> NLP in Deep Learning <li>  Deep Learning </ul>
 
     - heading: NLP and Data Science
       sprite: ui
