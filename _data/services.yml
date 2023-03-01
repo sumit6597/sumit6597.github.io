@@ -5,7 +5,7 @@
   services:
     - heading: Academics
       sprite: webdev
-      text: <ul><h5>2nd semester</h5> <li>Operating System (CMPSC 473) <li> NLP in Deep Learning (CSE 597) <li>  Deep Learning (IST 597) </ul>
+      text: <ul><h5>4th semester</h5> <li> Data Driven Design <li> DBMS (CMPSC 431W) </ul>
 
     - heading: NLP and Data Science
       sprite: ui
