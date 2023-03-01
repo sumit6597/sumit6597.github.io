@@ -18,7 +18,7 @@ tools:
 
 knowledge:
   - item: NLP 
- # - item: Data Science
+  - item: Data Science
   - item: Deep Learning
   - item: SOTA Models
   
