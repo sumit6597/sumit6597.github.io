@@ -48,7 +48,8 @@
 - position: AI Intern
   company: Marsview.AI
   url: https://www.marsview.ai/
-  description: Created pipelines for generating longer abstractive summary
+  description: Built pipelines for multiple-speaker-based longer abstractive summarization using pre-trained transformer-based model. Segmented the longer input sequences in small chunks using spacy such that the generated summary doesn’t lose its context and
+generates a longer summary
   sprite: university
   date: June 2021 - August 2021
   
