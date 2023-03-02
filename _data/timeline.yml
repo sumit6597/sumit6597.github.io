@@ -43,14 +43,19 @@
 - position: AI Intern
   company: Marsview.AI
   url: https://www.marsview.ai/
-  description: Built pipelines for multiple-speaker-based longer abstractive summarization using pre-trained transformer-based model. Segmented the longer input sequences in small chunks using spacy such that the generated summary doesn’t lose its context and generates a longer summary
+  description: Built pipelines for multiple-speaker-based longer abstractive summarization using pre-trained transformer-based model.
+  Segmented the longer input sequences in small chunks using spacy such that the generated summary doesn’t lose its context and generates a longer summary
   sprite: university
   date: June 2021 - August 2021
   
 - position: Graduate Research Assistant 
   company: Penn State University
   url: 
-  description: Extracted multiple features from 400 papers available on medarxiv and bioarxiv using existing extraction feature pipeline. Used ML algorithms to determine whether preprints are published within a year and, if so, whether they are influential. worked on applying NLP techniques to predict the reproducibility of research literature. Worked and implemented negation claims detection over features extracted from domain specific research papers. Worked on citation intent classification using transformer based pre-trained models
+  description: Extracted multiple features from 400 papers available on medarxiv and bioarxiv using existing extraction feature pipeline.
+  Used ML algorithms to determine whether preprints are published within a year and, if so, whether they are influential.
+  Worked on applying NLP techniques to predict the reproducibility of research literature.
+  Implemented negation claims detection over features extracted from domain specific research papers.
+  Worked on citation intent classification using transformer based pre-trained models
   date: August 2021 - July 2022
   
 - position: Graduate Research Assistant 
