@@ -22,8 +22,8 @@ social:
 #    url: http://codepen.io/bchiang7
   - title: github
     url: https://github.com/sumit6597
- - title: linkedin
-   url: https://www.linkedin.com/in/sumit-kumar6597/
+  - title: linkedin
+    url: https://www.linkedin.com/in/sumit-kumar6597/
 
 # Build settings
 markdown: kramdown
