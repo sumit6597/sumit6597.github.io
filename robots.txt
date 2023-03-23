@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
-Sitemap: http://ambityga.github.io/sitemap.xml
+Sitemap: http://sumit6597.github.io/sitemap.xml
 
