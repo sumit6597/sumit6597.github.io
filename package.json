@@ -1,8 +1,8 @@
 {
-  "name": "ambityga.github.io",
-  "author": "Ambesh Shekhar",
+  "name": "sumit6597.github.io",
+  "author": "Sumit Kumar",
   "version": "1.0.0",
-  "description": "Personal website of Ambesh Shekhar",
+  "description": "Personal website of Sumit Kumar",
   "main": "gulpfile.js",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.0",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AmbiTyga/ambityga.github.io"
+    "url": "https://github.com/sumit6597/sumit6597.github.io"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
