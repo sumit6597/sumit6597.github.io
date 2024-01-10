@@ -48,15 +48,12 @@
   sprite: university
   date: June 2021 - August 2021
   
-- position: Graduate Research Assistant 
+- position: Summer ML Associate
   company: Penn State University
   url: 
-  description: Extracted multiple features from 400 papers available on medarxiv and bioarxiv using existing extraction feature pipeline.
-                Used ML algorithms to determine whether preprints are published within a year and, if so, whether they are influential.
-               Worked on applying NLP techniques to predict the reproducibility of research literature.
-               Implemented negation claims detection over features extracted from domain specific research papers.
-               Worked on citation intent classification using transformer based pre-trained models
-  date: August 2021 - July 2022
+  description: Extracted features from a pool of 400 papers accessible on Medarxiv and Bioarxiv by implementing a robust feature extraction pipeline. Engineered machine learning (ML) and deep neural network (DNN) models, complemented by exploratory data analysis (EDA), to predict the likelihood of papers being published or having a significant impact.
+
+  date: June 2022 - August 2022
   
 - position: Graduate Research Assistant 
   company: Penn State University
