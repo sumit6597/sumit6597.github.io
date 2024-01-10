@@ -36,17 +36,23 @@
 - position: Project Research Intern
   company: Samsung R&D
   url: 
-  description: Worked on applying Machine Learning for 5G Channel Estimation. Researching towards adapting advanced ML techniques to improve the current state of the art in MIMO channel estimation.        
+  description: Collaborated on intent detection within a social media application as part of the on-device AI Natural Language Processing (NLP) team. Achieved high-accuracy classification of content for various action-based events using resource-efficient models, facilitating deployment on mobile devices for enhanced user experience.
   sprite: university
   date: Jan 2021 - May 2021
   
 - position: AI Intern
   company: Marsview.AI
   url: https://www.marsview.ai/
-  description: Built pipelines for multiple-speaker-based longer abstractive summarization using pre-trained transformer-based model.
-                Segmented the longer input sequences in small chunks using spacy such that the generated summary doesn’t lose its context and generates a longer summary
-  sprite: university
+  description: Engineered a T5-large deepspeed model specifically for extended abstractive summarization, resulting in a remarkable 70% reduction in manual labor and a notable 56 percent increase in summarization speed. Fine-tuned the T5-large samsum deepspeed model on proprietary data to optimize its performance for the downstream task of contextual summarization. Enhanced pipeline efficiency by strategically segmenting longer input sequences into smaller chunks using Spacy, ensuring effective context preservation throughout the summarization process and timestamps.
   date: June 2021 - August 2021
+
+- position: Graduate Research Assistant
+  company: DEFENSE ADVANCED RESEARCH PROJECTS AGENCY (DARPA) 
+  url: 
+  description: Elevated the accuracy of negation claims identification by an impressive 20%, leveraging features extracted from 28,515 domain-specific research papers through the implementation of Spacy. Contributed to citation intent classification by applying transformer-based pre-trained models, showcasing proficiency in advancing classification tasks within research-oriented contexts.
+
+
+  date: June 2022 - August 2022
   
 - position: Summer ML Associate
   company: Penn State University
@@ -56,11 +62,11 @@
   date: June 2022 - August 2022
   
 - position: Graduate Research Assistant 
-  company: Penn State University
+  company: AIR FORCE OFFICE OF SCIENTIFIC RESEARCH (AFOSR)
   url: 
-  description: Working on Vision-and-Language Navigation task where the aim is to make an agent learn that can navigate through a visual environment based on natural language instructions.
+  description: Established a Vision-and-Language Navigation task, empowering agents to acquire navigational skills in a visual environment through training on 22,000 multilingual instructions. Engineered a graph-based visualization system for tracking and analyzing barter trades within a customized Minecraft environment. Published research findings in IOS Press HHAI 2023, contributing to the dissemination of valuable insights in the field.
   sprite: university
-  date: August 2022 - Present
+  date: August 2022 - May 2023
   
 - position: Lead Machine Learning Engineer
   company: Rock Analytics
