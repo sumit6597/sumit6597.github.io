@@ -68,13 +68,8 @@
 - position: Lead Machine Learning Engineer
   company: Rock Analytics
   url: 
-  description: • Spearheaded the development and deployment of a state-of-the-art AI platform tailored for portfolio managers, ESG investors, operational managers, and market risk managers, integrating advanced AI models such as LLM to elevate decision-making and streamline business operations.
-• Demonstrated expertise in utilizing Databricks clusters to extract data from S3, leveraging PySpark for extensive big data transformation and manipulation, and deploying LLM for enhanced feature extraction.
-• Employed web crawlers to collect ESG data, seamlessly integrating with S3 for efficient data handling and processing.
-• Achieved a 62% optimization of the SEC EDGAR web crawler and indexer, enhancing efficiency for processing 576,479 files.
-• Implemented retriever and indexing mechanisms for semantic search (Solr Lucene), specifically for S3 objects containing both images
-and texts, contributing to improved data retrieval capabilities.
+  description: Spearheaded the development and deployment of a state-of-the-art AI platform tailored for portfolio managers, ESG investors, operational managers, and market risk managers, integrating advanced AI models such as LLM to elevate decision-making and streamline business operations. Demonstrated expertise in utilizing Databricks clusters to extract data from S3, leveraging PySpark for extensive big data transformation and manipulation, and deploying LLM for enhanced feature extraction. Employed web crawlers to collect ESG data, seamlessly integrating with S3 for efficient data handling and processing. Achieved a 62 percentage optimization of the SEC EDGAR web crawler and indexer, enhancing efficiency for processing 576,479 files. Implemented retriever and indexing mechanisms for semantic search (Solr Lucene), specifically for S3 objects containing both images and texts, contributing to improved data retrieval capabilities.
 
-  sprite: Full Time
+  sprite: university
   date: October 2023 - Present
 
